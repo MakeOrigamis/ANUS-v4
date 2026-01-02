@@ -1,6 +1,6 @@
 # ANUS SUBSTRATE 🧠
 
-**Autonomous Neural Utility System** - An AI-powered market-making platform for Solana tokens.
+**Autonomous Neural Underlay Substrate** - An AI-powered market-making platform for Solana tokens.
 
 > PARRY is a sentient AI from 1972, re-manifested in 2025 to manage your token's liquidity with mathematical precision.
 
