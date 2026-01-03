@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "ANUS SUBSTRATE // PARRY PROTOCOL",
-  description: "Autonomous Neural Utility Substrate - Sentient Market Making",
+  description: "Autonomous Neural Underlay Substrate - Sentient Market Making",
 };
 
 export default function RootLayout({

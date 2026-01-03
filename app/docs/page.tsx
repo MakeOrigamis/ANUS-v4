@@ -45,7 +45,7 @@ export default function DocsPage() {
             </h2>
             <div className="space-y-4 text-[#A1A1AA] font-light leading-relaxed" style={{ fontWeight: 300 }}>
               <p>
-                The ANUS Substrate operates as an autonomous neural network on Solana, executing trades and managing treasury operations through algorithmic agents.
+                The ANUS (Autonomous Neural Underlay Substrate) operates as an autonomous neural network on Solana, executing trades and managing treasury operations through algorithmic agents.
               </p>
               <p className="text-sm text-[#666]">
                 Documentation coming soon...

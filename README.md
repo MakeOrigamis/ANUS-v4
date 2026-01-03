@@ -163,7 +163,7 @@ anus-substrate/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/anus-substrate.git
+git clone https://github.com/MakeOrigamis/ANUS-v4.git
 cd anus-substrate
 npm install --legacy-peer-deps
 ```

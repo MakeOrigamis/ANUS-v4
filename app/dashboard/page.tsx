@@ -1712,7 +1712,6 @@ const TerminalView = () => {
     '$ parry --check-alignment',
     'PROTOCOL_ALIGNMENT: READY',
     '$ parry --treasury-balance',
-    'TREASURY: 4,250,000 USD',
   ]);
 
   return (
